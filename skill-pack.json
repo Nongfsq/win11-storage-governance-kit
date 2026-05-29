@@ -1,0 +1,31 @@
+{
+  "name": "win11-storage-governance-kit",
+  "version": "0.1.0",
+  "description": "Open-source Codex Skills kit for Windows 11 C-drive cleanup, storage migration, cache relocation, and package-manager governance.",
+  "license": "MIT",
+  "repository": "https://github.com/Nongfsq/win11-storage-governance-kit",
+  "skills": [
+    {
+      "name": "win11-storage-governance",
+      "path": "skills/win11-storage-governance",
+      "description": "Create safe Windows 11 C-drive cleanup and storage migration plans."
+    }
+  ],
+  "docs": [
+    "docs/windows-11-c-drive-governance.md"
+  ],
+  "privacy": {
+    "default_mode": "template-only",
+    "local_audit_requires_explicit_user_request": true,
+    "do_not_record": [
+      "usernames",
+      "machine names",
+      "emails",
+      "private project paths",
+      "package inventories",
+      "environment variable dumps",
+      "logs",
+      "chat databases"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+interface:
+  display_name: "Win11 Storage Governance"
+  short_description: "Safe Win11 C-drive cleanup planning"
+  default_prompt: "Use $win11-storage-governance to create a safe Windows 11 C-drive cleanup and storage migration plan."
+policy:
+  allow_implicit_invocation: true
