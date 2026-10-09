@@ -143,6 +143,12 @@ This project is conservative by design. It will not recommend manual deletion of
 
 For high-risk areas, use official tools, vendor uninstallers, repair utilities, quarantine workflows, and rollback plans.
 
+## Support
+
+If this project is useful to you, you can buy me a coffee.
+
+<a href="https://buymeacoffee.com/frankmenger"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="44"></a>
+
 ## License
 
 MIT License.

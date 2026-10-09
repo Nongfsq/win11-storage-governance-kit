@@ -143,6 +143,12 @@ uvx --with pyyaml python C:\Users\<User>\.codex\skills\.system\skill-creator\scr
 
 高风险区域应使用官方工具、厂商卸载器、修复工具、隔离流程和回滚方案处理。
 
+## 支持
+
+如果这个项目对你有用，可以请我喝杯咖啡。
+
+<a href="https://buymeacoffee.com/frankmenger"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="44"></a>
+
 ## 许可证
 
 MIT License。
